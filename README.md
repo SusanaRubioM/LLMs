@@ -1,2 +1,2 @@
 # LLMs
-RAG with LLM by ollama
+RAG with LLM using ollama
